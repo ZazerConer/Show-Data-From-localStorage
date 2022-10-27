@@ -17,16 +17,16 @@ So much data is stored in **localStorage** but we never see it. So if you want t
 <hr>
 <br><br>
 
-### Go here: [Show Data From localStorage](https://zazerconer.github.io/Show-Data-From-localStorage)
+### Go here : [Show Data From localStorage](https://zazerconer.github.io/Show-Data-From-localStorage)
 
 <br><br>
 <hr>
 
-**Note:** You can use this tool in any browser you have to check the data stored in **localStorage**.
+**Note :** You can use this tool in any browser you have to check the data stored in **localStorage**.
 
 <br>
 
-### License: [MIT](https://github.com/ZazerConer/Show-Data-From-localStorage/blob/main/LICENSE)
+### License : [MIT](https://github.com/ZazerConer/Show-Data-From-localStorage/blob/main/LICENSE)
 
 <br><br><br><br><br>
 
