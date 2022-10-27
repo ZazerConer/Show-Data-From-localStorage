@@ -12,7 +12,7 @@ Anything about **localStorage** is of course used to store data, such as IDs, te
 
 But, have you seen that data in **localStorage**? Some may have seen it and some may not. 
 
-So much data is stored in **localStorage** but we never see it. So if you want to know whatever data is stored in **localStorage** on your browser, you can directly open the link below. 
+So much data is stored in **localStorage** but we never see it. So, if you want to know whatever data is stored in **localStorage** on your browser, you can directly open the link below. 
 
 <hr>
 <br><br>
